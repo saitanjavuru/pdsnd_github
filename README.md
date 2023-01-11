@@ -8,7 +8,7 @@ README.md for Version Control Project created on January 11, 2023
 Udacity Explore US Bikeshare Data
 
 ### Description
-Used Python and Python libraries like NumPy and pandas to understand U.S. Bikeshare data. Calculated statistics and built an interactive environment where a user chooses the data and filter for a dataset to analyze.
+Used Python and Python libraries like NumPy and pandas to understand and explore U.S. Bikeshare data of major cities. Calculated statistics and built an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
 The files used were the bikeshare.py, chicago.csv, new_york_city.csv, and washington.csv. The csv data sets were provided by Motivate, a bike share system provider for many major cities in the United States.
